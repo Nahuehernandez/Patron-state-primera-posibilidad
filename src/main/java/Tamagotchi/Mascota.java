@@ -13,7 +13,6 @@ public class Mascota {
 
     public void comer(){
         estadoMascota.comer();
-
     }
 
     public void jugar(){
